@@ -40,3 +40,7 @@ Projectteam:
 - [Jermain Malaha](https://github.com/JermainMalaha)
 
 [HAN University of Applied Sciences](https://www.han.nl/contact/)
+
+---
+
+*Note: This project is an academic exercise and not intended for commercial distribution.*
