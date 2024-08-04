@@ -13,7 +13,7 @@ Welcome to the official repository for **Vampire Hunters**! This project is deve
 
 ## Project Overview
 
-**Vampire Hunters** is a thrilling game inspired by the popular game *Vampire Survivors*. Our project was developed as part of our coursework at HAN University of Applied Sciences using the Java programming language, the school's proprietary game engine, Yeager, and are newly gained knowledge of object-oriented programming (OOP).
+**Vampire Hunters** is a thrilling game inspired by the popular game *Vampire Survivors*. Our project was developed as part of our coursework at HAN University of Applied Sciences using the Java programming language, the school's proprietary game engine, Yeager, and our newly gained knowledge of object-oriented programming (OOP).
 
 ## Game Concept
 
